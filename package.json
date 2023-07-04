@@ -1,0 +1,17 @@
+{
+    "name": "@aslijia/oss-upload",
+    "version": "0.0.6",
+    "description": "",
+    "main": "index.js",
+    "bin": "./bin/uploader",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ali-oss": "^6.17.1",
+        "commander": "^11.0.0",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6",
+        "superagent": "^8.0.9"
+    }
+}
